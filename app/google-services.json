@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553248333941",
+    "project_id": "notesdevie1",
+    "storage_bucket": "notesdevie1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553248333941:android:197d6d698b1b1985f5983c",
+        "android_client_info": {
+          "package_name": "com.example.notesdevie1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXmz3SbmY_h5FfCXTEn85EgZal84jkas0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
