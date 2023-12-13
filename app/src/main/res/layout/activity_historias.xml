@@ -15,10 +15,10 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="101dp"
-        android:layout_marginTop="108dp"
-        android:layout_marginEnd="142dp"
-        android:layout_marginBottom="578dp"
+        android:layout_marginStart="102dp"
+        android:layout_marginTop="131dp"
+        android:layout_marginEnd="141dp"
+        android:layout_marginBottom="555dp"
         android:hint="Título" />
 
     <EditText
@@ -33,46 +33,49 @@
         android:layout_marginTop="193dp"
         android:layout_marginEnd="26dp"
         android:layout_marginBottom="118dp"
-        android:hint="Contenido" />
+        android:hint="Escribe tu historia Aquí" />
 
     <Button
         android:id="@+id/btnGuardar"
-        android:layout_width="wrap_content"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
+        android:background="@drawable/btnstart2"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="296dp"
-        android:layout_marginTop="30dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="653dp"
+        android:layout_marginStart="284dp"
+        android:layout_marginTop="41dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="650dp"
         android:text="Guardar" />
 
     <Button
         android:id="@+id/btnBorrar"
-        android:layout_width="wrap_content"
+        android:layout_width="107dp"
+        android:background="@drawable/btnstart2"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="313dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginStart="267dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginBottom="39dp"
         android:text="Borrar" />
 
     <Button
         android:id="@+id/btnEditar"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="37dp"
         android:layout_alignParentStart="true"
+        android:background="@drawable/btnstart2"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="19dp"
-        android:layout_marginTop="28dp"
-        android:layout_marginEnd="304dp"
-        android:layout_marginBottom="655dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="271dp"
+        android:layout_marginBottom="652dp"
         android:text="Editar" />
 
 </RelativeLayout>
